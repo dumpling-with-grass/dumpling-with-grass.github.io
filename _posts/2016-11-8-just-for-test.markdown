@@ -6,6 +6,10 @@ categories: jekyll update
 ---
 Frankly speaking，this is my first blog.
 
+(painted eggshell)
+http://pan.baidu.com/s/1kT9LT4r
+(do u remember)
+
 [jekyll-docs]: http://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
