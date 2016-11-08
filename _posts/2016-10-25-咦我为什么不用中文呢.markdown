@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "咦我为什么不用中文呢"
+date:   2016-11-8 10:46:32 +0800
+categories: jekyll update
+---
+恩。。。。。。说明本宝宝英文还是很好滴，但是鉴于另外俩只英文都不咋滴所以我决定换用中文恩
+并不是怕以后某只宝宝放上来各种全英文的东东看不懂恩
+
+[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
